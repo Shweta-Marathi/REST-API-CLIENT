@@ -37,3 +37,6 @@ IoT Devices: Smart displays or assistants can use this client to show live weath
 Educational Use: Demonstrates REST API consumption, JSON parsing, and modern Java features.
 Automation: Can be part of scripts for weather-based decision making, such as logistics or farming operations.
 Data Logging: The client can be modified to periodically fetch weather data and store it for analysis.
+
+OUTPUT:
+<img width="832" height="321" alt="Image" src="https://github.com/user-attachments/assets/d82ceb41-ea63-4613-999e-d7a80399e12d" />
